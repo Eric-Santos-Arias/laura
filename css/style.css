@@ -24,35 +24,35 @@
     
 }
 .item1{
-    background-image: url(../imagenes/basemaquillaje.jfif);
+    background-image: url("../imagenes/basemaquillaje.jfif");
     background-size: contain;
     border-radius: 50px;
     box-shadow: 7px 5px 8px rgba(0, 0, 0, 0.197);
     border: none;
 }
 .item2{
-    background-image: url(../imagenes/paletasombras.jfif);
+    background-image: url("../imagenes/paletasombras.jfif");
     background-size: contain;
     border-radius: 50px;
     box-shadow: 7px 5px 8px rgba(0, 0, 0, 0.197);
     border: none;
 }
 .item3{
-    background-image: url(../imagenes/pintalabios.jfif);
+    background-image: url("../imagenes/pintalabios.jfif");
     background-size: contain;
     border-radius: 50px;
     box-shadow: 7px 5px 8px rgba(0, 0, 0, 0.197);
     border: none;
 }
 .item4{
-    background-image: url(../imagenes/polvomaquillaje.jpg);
+    background-image: url("../imagenes/polvomaquillaje.jpg");
     background-size: contain;
     border-radius: 50px;
     box-shadow: 7px 5px 8px rgba(0, 0, 0, 0.197);
     border: none;
 }
 .item5{
-    background-image: url(../imagenes/rimmel.jpg);
+    background-image: url("../imagenes/rimmel.jpg");
     background-size: contain;
     border-radius: 50px;
     box-shadow: 7px 5px 8px rgba(0, 0, 0, 0.197);
